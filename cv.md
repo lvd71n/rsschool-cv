@@ -30,7 +30,8 @@ After several years of working as engine engineer, warranty engineer and some pa
 
 ## Code example:
 
-```"All Inclusive?" KATA from CODEWARS:
+"All Inclusive?" KATA from CODEWARS:
+```
 function containAllRots(strng, arr) {
     if(strng === "") {
         return true
